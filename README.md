@@ -98,7 +98,7 @@ Statcounter és una eina d'analítica web que et permet fer un seguiment del tr�
 
 Per afegir analítica a la teva web corporativa, segueix aquests passos:
 
-1. Visita el lloc web de Statcounter (https://statcounter.com/) i crea un compte, no cal que utilitzis el compte de correu corporatiu, pots utilitzar un compte personal.
+1. Visita el lloc web de Statcounter [https://statcounter.com/](https://statcounter.com/) i crea un compte, no cal que utilitzis el compte de correu corporatiu, pots utilitzar un compte personal.
 2. Un cop hagis creat el compte, inicia sessió i crea un nou projecte per a la teva web corporativa.
 3. Project URL: Introduïu la URL de la vostra web corporativa desplegada a GitHub Pages.
 4. Project Title: Dona un nom al teu projecte (per exemple, "Web Corporativa de [Nom de l'Empresa]").
