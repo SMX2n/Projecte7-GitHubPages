@@ -103,14 +103,20 @@ Statcounter és una eina d'analítica web que et permet fer un seguiment del tr�
 Per afegir analítica a la teva web corporativa, segueix aquests passos:
 
 1. Visita el lloc web de Statcounter [https://statcounter.com/](https://statcounter.com/) i crea un compte, no cal que utilitzis el compte de correu corporatiu, pots utilitzar un compte personal.
-2. Un cop hagis creat el compte, inicia sessió i crea un nou projecte per a la teva web corporativa.
+2. Un cop hagis creat el compte, inicia sessió i crea un nou projecte per a la teva web corporativa. Tria el pla gratuït.
 3. Project URL: Introduïu la URL de la vostra web corporativa desplegada a GitHub Pages.
 4. Project Title: Dona un nom al teu projecte (per exemple, "Web Corporativa de [Nom de l'Empresa]").
 5. Tria "Invisible Counter" com a tipus de comptador, ja que no volem que el comptador sigui visible als visitants de la teva web.
 
 Un cop hagis creat el projecte, Statcounter et proporcionarà un codi de seguiment que hauràs d'afegir a la teva web corporativa. Aquest codi és un fragment de JavaScript que has de col·locar abans de la etiqueta `</body>` al fitxer `index.html` de la teva web.
 
-Un cop hagis afegit el codi de seguiment a la teva web corporativa, fes commit i push dels canvis al repositori de GitHub. Després de pujar els canvis, espera uns minuts i després visita el teu compte de Statcounter per verificar que el seguiment està funcionant correctament. Hauries de començar a veure les dades de trànsit i comportament dels visitants a la teva web corporativa. Documenta alguna captura dels resultats i la incorpores a la documentació del projecte.
+Un cop hagis afegit el codi de seguiment a la teva web corporativa, fes commit i push dels canvis al repositori de GitHub. Després de pujar els canvis, espera uns minuts i després visita el teu compte de Statcounter per verificar que el seguiment està funcionant correctament. Prova a que gent des de diverses ubicaciones: familiars, amics o col·legues entrin a la pàgina. Hauries de començar a veure les dades de trànsit i comportament dels visitants a la teva web corporativa. Documenta alguna captura dels resultats i la incorpores a la documentació del projecte.
+
+Exemple d'informació de Statcounter:
+
+![Statcounter I](https://statcounter.com/images/statcounter_summary_stats.png)
+
+![Statcounter II](https://statcounter.com/images/statcounter_visitor_activity.png)
 
 ### Detalls finals
 
