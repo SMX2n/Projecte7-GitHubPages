@@ -2,6 +2,10 @@
 
 ## Tasca per desplegar la vostra web corporativa a GitHub Pages
 
+![web](https://img.shields.io/badge/web-FCC624?style=for-the-badge&logo=web&logoColor=green)
+![IA](https://img.shields.io/badge/IA-3DDC84?style=for-the-badge&logo=Google&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-FF5733?style=for-the-badge&logo=github&logoColor=white)
+
 ## Introducció
 
 Tal com s'ha explicat a la tasca del projecte, el teu objectiu és crear una web corporativa per a la vostra empresa fictícia i després desplegar-la a GitHub Pages. Aquesta guia et proporcionarà els passos necessaris per aconseguir-ho.
