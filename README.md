@@ -1,6 +1,6 @@
 # Desplegant en GitHubPages
 
-## Tasca per desplegar la vostra web corporativa a GitHub Pages
+## Tasca per desplegar la  web corporativa a GitHub Pages
 
 ![web](https://img.shields.io/badge/web-FCC624?style=for-the-badge&logo=web&logoColor=green)
 ![IA](https://img.shields.io/badge/IA-3DDC84?style=for-the-badge&logo=Google&logoColor=white)
@@ -8,7 +8,7 @@
 
 ## Introducció
 
-Tal com s'ha explicat a la tasca del projecte, el teu objectiu és crear una web corporativa per a la vostra empresa fictícia i després desplegar-la a GitHub Pages. Aquesta guia et proporcionarà els passos necessaris per aconseguir-ho.
+Tal com s'ha explicat a la tasca del projecte, el teu objectiu és crear una web corporativa per a la vostra empresa client i després desplegar-la a GitHub Pages. Aquesta guia et proporcionarà els passos necessaris per aconseguir-ho.
 
 És una tasca individual, és a dir, cada membre de l'equip ha de crear i desplegar la seva pròpia web corporativa a GitHub Pages. No obstant això, podeu compartir idees i recursos entre vosaltres per ajudar-vos mútuament en el procés. Finalment, com equip triareu la solució que més us agradi per presentar-la com solució final.
 
@@ -16,12 +16,12 @@ Tal com s'ha explicat a la tasca del projecte, el teu objectiu és crear una web
 
 ### Creació del repositori
 
-En primer lloc, has de crear un repositori a GitHub on allotjaràs els fitxers de la teva web corporativa. Pots fer-ho seguint aquests passos:
+En primer lloc, has de crear un repositori a GitHub on allotjaràs els fitxers de la teva web . Pots fer-ho seguint aquests passos:
 
 1. Inicia sessió al teu compte de GitHub.
 2. Fes clic al botó "New" per crear un nou repositori.
 3. Dona un nom al teu repositori (per exemple, "web-corporativa").
-4. Marca l'opció "Public" i, si vols, afegeix una descripció.
+4. Marca l'opció "Private" i, si vols, afegeix una descripció, car no volem compartir el projecte públicament.
 5. Fes clic al botó "Create repository".
 6. Copia l'URL del repositori per poder clonar-lo localment.
 
@@ -31,7 +31,7 @@ Ara que tens el repositori creat, has de clonar-lo al teu ordinador i afegir els
 
 1. Obre Code i a l'opció de clonar repositori, enganxa l'URL del repositori que has copiat anteriorment.
 2. Un cop clonat el repositori, crea una carpeta anomenada `docs` a l'arrel del repositori.
-3. Crea un arxiu README.md a l'arrel del repositori i afegeix una breu descripció de la teva web corporativa. A continuació, tens un exemple de contingut per al README.md:
+3. Crea un arxiu README.md a l'arrel del repositori i afegeix una breu descripció de la tasca. A continuació, tens un exemple de contingut per al README.md:
 
 ```markdown
 
@@ -120,4 +120,4 @@ Exemple d'informació de Statcounter:
 
 ### Detalls finals
 
-Al repositori veuràs que hi ha una secció anomenada "About" on pots afegir una descripció breu de la teva web corporativa, allà a "Website" pots afegir la URL de la teva web desplegada a GitHub Pages simplement marcant l'opció "Use your GitHub Pages website" i a "Topics" pots afegir etiquetes relacionades amb el teu projecte, com per exemple "web-corporativa", "github-pages", etc. Això ajudarà a que altres persones puguin trobar el teu projecte més fàcilment.
+Al repositori veuràs que hi ha una secció anomenada "About" on pots afegir una descripció breu de la teva web corporativa, allà a "Website" pots afegir la URL de la teva web desplegada a GitHub Pages simplement marcant l'opció "Use your GitHub Pages website" i a "Topics" pots afegir etiquetes relacionades amb el teu projecte, com per exemple "web-corporativa", "github-pages", etc.
