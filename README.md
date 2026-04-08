@@ -74,6 +74,8 @@ La pàgina web ha de tenir la següent estructura bàsica:
 
 Per crear el contingut, pots fer-ho directament o et recomanem utilitzar una eina d'IA com `Canva de Gemini`, que et permetrà generar contingut visual atractiu per a la teva web corporativa. És important que citis amb quina eina d'IA has creat el contingut, ja sigui text o imatges, i que ho incloguis al README.md del teu repositori.
 
+A l'arxiu [prompts.md](prompts.md) trobaràs alguns exemples de prompts que pots utilitzar per generar contingut amb l'IA. Recorda que el contingut ha de ser original i creat per tu, així que utilitza l'IA com una eina d'ajuda, però no com a font principal de contingut.
+
 Un cop tinguis el codi, cal que el guardis a la carpeta `docs` del teu repositori local. Assegura't que el fitxer principal de la teva web es digui `index.html`, ja que GitHub Pages el reconeixerà com a pàgina d'inici. Pots separar el estils CSS en un fitxer anomenat `styles.css` i col·locar-lo també dins de la carpeta `docs`. Pel que fa a les imatges, et recomanem que utilitzis imatges lliures de drets d'autor i les vinculis a la teva web mitjançant URL i les pròpies com poden ser logotips, etc. posa-les dins una carpeta anomenada `images` dins de `docs`.
 
 Treballa en local, usant la Vista Prèvia de Code per veure com queda la teva web corporativa abans de pujar-la a GitHub. Fes fent commits regulars per guardar els canvis i permetre versionar el treball, desfent canvis si cal.
