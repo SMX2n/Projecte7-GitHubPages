@@ -21,7 +21,7 @@ En primer lloc, has de crear un repositori a GitHub on allotjaràs els fitxers d
 1. Inicia sessió al teu compte de GitHub.
 2. Fes clic al botó "New" per crear un nou repositori.
 3. Dona un nom al teu repositori (per exemple, "web-corporativa").
-4. Marca l'opció "Private" i, si vols, afegeix una descripció, car no volem compartir el projecte públicament.
+4. Marca l'opció "Public" i, si vols, afegeix una descripció, car ho volem compartir el projecte públicament.
 5. Fes clic al botó "Create repository".
 6. Copia l'URL del repositori per poder clonar-lo localment.
 
